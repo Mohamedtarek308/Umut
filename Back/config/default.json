@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Tarek:medo0000@devconnector-2tjcc.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6f7beebd73dcc457dba5",
+  "githubSecret": "247df1deabc31688960845b7dc6a01b13c2c8a5c"
+}
